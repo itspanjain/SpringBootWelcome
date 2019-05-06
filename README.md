@@ -1,2 +1,2 @@
 # SpringBootWelcome
-Simple applictaion with 2 end points "/" and "/welcome"
+Simple application with 2 endpoints "/" and "/welcome"
