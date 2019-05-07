@@ -10,6 +10,7 @@ public class WelcomeController {
     public String greeting(){
         return "Greetings from SpringBootWelcome Application!!!";
     }
+    
     @RequestMapping("/welcome")
     public String welcome(){
         return "Welcome User!!!";
